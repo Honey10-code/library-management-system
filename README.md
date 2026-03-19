@@ -1,4 +1,10 @@
 # library-management-system
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    commiting by hani
+=======
+>>>>>>> d1005bf
     
     This is a libaray mnanagement API Backend for the management of users and the books
 
@@ -59,3 +65,7 @@ npm run dev
 
 To restore node modules and package-lock.json --> npm i/npm install
 
+<<<<<<< HEAD
+=======
+>>>>>>> 377ad72 (Initail Set Up)
+>>>>>>> d1005bf
