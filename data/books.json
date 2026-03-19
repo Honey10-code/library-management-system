@@ -1,0 +1,44 @@
+{
+    "books": [
+      {
+        "id": "1",
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "price": "12.99",
+        "publisher": "Houghton Mifflin"
+      },
+      {
+        "id": "2",
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "price": "15.50",
+        "publisher": "Bloomsbury"
+      },
+      {
+        "id": "3",
+        "name": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "price": "10.99",
+        "publisher": "HarperCollins"
+      },
+      {
+        "id": "4",
+        "name": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-help",
+        "price": "18.00",
+        "publisher": "Penguin Random House"
+      },
+      {
+        "id": "5",
+        "name": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "genre": "Finance",
+        "price": "14.25",
+        "publisher": "Plata Publishing"
+      }
+    ]
+  }

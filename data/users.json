@@ -1,0 +1,48 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Amit",
+        "surname": "Sharma",
+        "email": "amit.sharma@email.com",
+        "issuedBook": "1",
+        "issuedDate": "01/02/2023",
+        "returnDate": "10/02/2023",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "01/01/2023"
+      },
+      {
+        "id": "2",
+        "name": "Priya",
+        "surname": "Verma",
+        "email": "priya.verma@email.com",
+        "issuedBook": "3",
+        "issuedDate": "05/03/2023",
+        "returnDate": "15/03/2023",
+        "subscriptionType": "Basic",
+        "subscriptionDate": "01/03/2023"
+      },
+      {
+        "id": "3",
+        "name": "Rahul",
+        "surname": "Singh",
+        "email": "rahul.singh@email.com",
+        "issuedBook": "2",
+        "issuedDate": "12/04/2023",
+        "returnDate": "22/04/2023",
+        "subscriptionType": "Standard",
+        "subscriptionDate": "01/04/2023"
+      },
+      {
+        "id": "4",
+        "name": "Neha",
+        "surname": "Gupta",
+        "email": "neha.gupta@email.com",
+        "issuedBook": "5",
+        "issuedDate": "20/05/2023",
+        "returnDate": "30/05/2023",
+        "subscriptionType": "Premium",
+        "subscriptionDate": "01/05/2023"
+      }
+    ]
+  }
