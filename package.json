@@ -2,13 +2,13 @@
   "name": "library-management-system",
   "version": "1.0.0",
   "description": "This is a libaray mnanagement API Backend for the management of users and the books",
-  "homepage": "https://github.com/Honey10-code/library-management-system#readme",
+  "homepage": "https://github.com/hani8104/library-management-system#readme",
   "bugs": {
-    "url": "https://github.com/Honey10-code/library-management-system/issues"
+    "url": "https://github.com/hani8104/library-management-system/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Honey10-code/library-management-system.git"
+    "url": "https://github.com/hani8104/library-management-system.git"
   },
   "license": "ISC",
   "author": "hani pathak",
@@ -19,7 +19,10 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.1",
+    "mongoose": "^9.3.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
